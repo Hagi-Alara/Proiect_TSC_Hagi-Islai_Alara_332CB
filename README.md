@@ -13,10 +13,6 @@ Sistemul este arhitecturat în jurul SoC-ului nRF52840, selectat pentru suportul
 * **Interfață Utilizator:** Trei butoane fizice cu acționare tactilă, configurate cu rezistențe de pull-up interne.
 * **Managementul Energiei:** Sistemul este alimentat printr-un acumulator Li-Po conectat direct la pad-urile circuitului imprimat, eliminând conectorul JST pentru a respecta limitările de gabarit pe axa Z. Încărcarea se realizează prin intermediul interfeței USB-C, gestionată de un circuit integrat de management al puterii (PMIC), în timp ce nivelul de încărcare este monitorizat de un Fuel Gauge.
 
-## Diagrama Bloc
-
-*(Inserați aici diagrama bloc a arhitecturii hardware. Exemplu: `![Diagrama Bloc](link_catre_imagine.png)`)*
-
 ## Bill of Materials (BOM) Principal
 
 *(Notă: Tabelul reflectă componentele majore integrate în schemă)*
