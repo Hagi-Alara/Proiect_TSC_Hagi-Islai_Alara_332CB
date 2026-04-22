@@ -15,8 +15,6 @@ Sistemul este arhitecturat în jurul SoC-ului nRF52840, selectat pentru suportul
 
 ## Bill of Materials (BOM) Principal
 
-*(Notă: Tabelul reflectă componentele majore integrate în schemă)*
-
 | Componentă | Pachet / Capsulă | Funcție |
 | :--- | :--- | :--- |
 | **nRF52840-QIAA** | aQFN-73 | Microcontroler principal (SoC) + BLE |
@@ -49,7 +47,6 @@ Alocarea pinilor a fost optimizată pentru a minimiza încrucișările de trasee
 
 ## Randări 3D
 <img width="1191" height="815" alt="image" src="https://github.com/user-attachments/assets/d70806fd-48fd-442e-a2dd-e098458f0f61" />
-
 <img width="1155" height="991" alt="image" src="https://github.com/user-attachments/assets/fa92a6f4-6b4c-4cfd-a3cd-26c49ee54e4b" />
 <img width="1262" height="850" alt="image" src="https://github.com/user-attachments/assets/2b0a4fa6-e957-4989-86a7-556bf81fb66e" />
 
